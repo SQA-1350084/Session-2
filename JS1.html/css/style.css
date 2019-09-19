@@ -1,0 +1,13 @@
+
+html,body{
+  width:100%;
+  min-height: 100%;
+
+}
+
+p{
+  color:#ff0066;
+  display: block;
+  margin: 0 auto;
+  width: 98 0px;
+}
